@@ -1,5 +1,4 @@
 {
-  "unversionedId": "experience",
   "id": "experience",
   "title": "Experience",
   "description": "",
@@ -8,6 +7,7 @@
   "slug": "/experience",
   "permalink": "/docs/experience",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {

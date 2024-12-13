@@ -10,14 +10,13 @@
     "create:blog": "node ./cmds/blog/command.js"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.68",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.68",
+    "@docusaurus/core": "^3.6.3",
+    "@docusaurus/preset-classic": "^3.6.3",
+    "@docusaurus/theme-search-algolia": "^3.6.3",
     "classnames": "^2.2.6",
     "inquirer": "^7.1.0",
     "lodash.kebabcase": "^4.1.1",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-ui-cards": "^2.0.0",
+    "react-router": "^7.0.2",
     "react-vertical-timeline-component": "^3.0.0",
     "styled-components": "^5.2.1"
   },

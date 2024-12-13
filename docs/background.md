@@ -3,8 +3,11 @@ id: my-background
 title: My Background
 ---
 
-I am a hard-working, positive, easy going technophile who is continuously keen to learn new things in every single moment possible. I like to spend my free time with my own IT-projects. It would be greatly inspiring to work with people who - despite being the best of their specializations - remain humble and are interested to learn and find solutions together. My ambition is to help bring Nepal into the spotlight of IT world. My long-term career objective is to be a lead developer along with the knowledge of requirements engineering, data mining and IT risk analyst. I would love to be in a place that requires my people skills as well as my technical competence.
-Right now I am searching for an opportunity to align my study with my professional career so that I will get inspired in the future.
+I’m Prashanna Rai, a passionate technologist who has transitioned from a Full-Stack Developer to an Azure Data Engineer. 
+My journey started with building end-to-end applications, where I developed a strong foundation in coding, problem-solving, and system design. 
+Over time, I became deeply interested in managing, transforming, and analyzing data to unlock business insights. 
+Leveraging my full-stack background, I now specialize in designing and implementing scalable cloud-based data solutions on Microsoft Azure, focusing on tools like Azure Data Factory, Synapse Analytics, and Databricks. 
+My diverse skill set allows me to bridge the gap between application development and data engineering, ensuring seamless integration and optimal performance across systems.
 
 <br/>
 

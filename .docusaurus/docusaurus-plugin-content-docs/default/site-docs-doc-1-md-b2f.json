@@ -1,5 +1,4 @@
 {
-  "unversionedId": "doc1",
   "id": "doc1",
   "title": "Style Guide",
   "description": "<!--",
@@ -8,6 +7,7 @@
   "slug": "/doc1",
   "permalink": "/docs/doc1",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {

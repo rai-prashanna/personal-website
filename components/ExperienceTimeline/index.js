@@ -49,7 +49,7 @@ const ExperienceTimeline = () => {
 
         <VerticalTimelineElement
           style={{}}
-          iconStyle={{ background: "rgb(16, 204, 82)", color: "#fff" }}
+          iconStyle={{ background: "rgb(16, 204, 82)", color: "#fff" , fontSize: '70px'}}
         />
       </VerticalTimeline>
     </div>

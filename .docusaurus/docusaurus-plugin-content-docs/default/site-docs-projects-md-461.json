@@ -1,5 +1,4 @@
 {
-  "unversionedId": "projects",
   "id": "projects",
   "title": "My Works",
   "description": "",
@@ -8,6 +7,7 @@
   "slug": "/projects",
   "permalink": "/docs/projects",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {

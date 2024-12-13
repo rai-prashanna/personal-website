@@ -12,14 +12,31 @@ import QAIcon from "@site/static/img/techs/quality-assurance.svg";
 import JavaIcon from "@site/static/img/techs/java.svg";
 import UUIcon from "@site/static/img/UU_logo_color.svg";
 import DockerIcon from "@site/static/img/techs/docker.svg";
+import AzureAssociateIcon from "@site/static/img/techs/microsoft-certified-associate-badge.svg";
+import AngularIcon from "@site/static/img/techs/angular.svg";
 
 export default [
   {
-    date: "1 Jul 2023 - Present",
+    date: "2 Sep 2024 - Present",
+    role: "Azure Data Engineer Associate",
+    location: "Sweden",
+    website: "https://knightec.se/",
+    icon: <AzureAssociateIcon />,
+    description: () => (
+      <ul>
+        <li>
+        Obtained certification on Microsoft Certified: Azure Data Engineer Associate within 2 months. 
+        </li>
+        <li>Preparing for next certification Azure Developer Associate.</li>
+      </ul>
+    ),
+  },
+  {
+    date: "1 Jul 2023 - 1 Sep 2024",
     role: "Full stack developer",
     location: "Sweden",
     website: "https://www.brokerway.com/",
-    icon: <JavaIcon />,
+    icon: <AngularIcon />,
     description: () => (
       <ul>
         <li>

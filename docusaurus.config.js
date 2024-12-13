@@ -1,6 +1,6 @@
 module.exports = {
   title: "Prashanna Rai",
-  tagline: `Passionate Developer who loves Java and Angular`,
+  tagline: `Passionate about crafting efficient cloud-based data solutions, optimizing performance, and unlocking the full potential of data for impactful business outcomes.`,
   url: "https://rai-prashanna.github.io/",
   baseUrl: "/",
   favicon: "img/favicon.ico",

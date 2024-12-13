@@ -3,6 +3,7 @@ import PublicImage from "./PublicImage";
 import styled from "styled-components";
 
 const skills = [
+  "microsoft-certified-associate-badge",
   "java",
   "jakarta-ee",
   "spring",

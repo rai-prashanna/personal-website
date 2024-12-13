@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrai_prashanna_github_io=self.webpackChunkrai_prashanna_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/blog/2023/08/01/hello-world"}]}')}}]);

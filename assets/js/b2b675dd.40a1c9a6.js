@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrai_prashanna_github_io=self.webpackChunkrai_prashanna_github_io||[]).push([[533],{8017:a=>{a.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

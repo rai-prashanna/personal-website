@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrai_prashanna_github_io=self.webpackChunkrai_prashanna_github_io||[]).push([[897],{8563:a=>{a.exports=JSON.parse('{"label":"hello-world","permalink":"/blog/tags/hello-world","allTagsPath":"/blog/tags","count":1}')}}]);

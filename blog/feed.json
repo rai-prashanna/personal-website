@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Prashanna Rai Blog",
+    "home_page_url": "https://rai-prashanna.github.io/blog",
+    "description": "Prashanna Rai Blog",
+    "items": [
+        {
+            "id": "https://rai-prashanna.github.io/blog/2023/08/01/hello-world",
+            "content_html": "<p>Hello World</p>",
+            "url": "https://rai-prashanna.github.io/blog/2023/08/01/hello-world",
+            "title": "Hello World",
+            "summary": "Hello World",
+            "date_modified": "2023-08-01T00:00:00.000Z",
+            "tags": [
+                "hello-world"
+            ]
+        }
+    ]
+}
